@@ -2,7 +2,7 @@
 ## Local Control Protocols (HTTP, UDP, CoAP) & Edge Device Discovery
 
 **รหัสนักศึกษา:** 67030359  
-**ชื่อ-นามสกุล:** นายอัฐวุฒิ บัวเลียน (Attawut Bualian)  
+**ชื่อ-นามสกุล:** นายอัฐวุฒิ บัวเรียน (Atthawut Buarean)  
 
 ---
 
